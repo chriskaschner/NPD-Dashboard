@@ -5,7 +5,7 @@
 #     <li data-row="1" data-col="1" data-sizex="3" data-sizey="2">
 #       <div data-id="picture" data-view="BigImage" data-image="http://i.imgur.com/JycUgrg.jpg"
 #         style="background-color:transparent;"
-#         data-max="true"
+#         data-max="false"
 #       ></div>
 #     </li>
 #
