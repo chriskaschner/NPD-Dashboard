@@ -1,1 +1,1 @@
-Check out http://shopify.github.com/dashing for more information.
+Based on the excellent [Dashing](https://github.com/Shopify/dashing)
